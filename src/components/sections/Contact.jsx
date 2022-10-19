@@ -34,7 +34,7 @@ const StyledContact = styled.section`
 
   .contact-form input::placeholder,
   .contact-form textarea::placeholder {
-    color: var(--colorl-2);
+    color: var(--color-1);
     opacity: 0.7;
   }
 
