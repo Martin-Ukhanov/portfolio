@@ -41,7 +41,6 @@ const StyledContact = styled.section`
   .contact-form button {
     padding: var(--spacing);
     border: var(--border-width) solid var(--color-1);
-    font-weight: normal;
   }
 
   .contact-form button:hover,
