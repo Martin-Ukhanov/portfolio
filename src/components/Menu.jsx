@@ -34,12 +34,12 @@ const StyledMenu = styled.menu`
   }
 
   #menu-top .name {
-    font-size: 2rem;
+    font-size: var(--fz-sm);
     line-height: 1.1;
   }
 
   #menu-top .title {
-    font-size: 1.1rem;
+    font-size: var(--fz-xs);
   }
 
   #sections-nav {

@@ -136,7 +136,7 @@ const StyledProjectDisplay = styled.div`
   }
 
   .info .name {
-    font-size: 2rem;
+    font-size: var(--fz-sm);
   }
 
   .info .tools {

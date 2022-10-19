@@ -75,7 +75,7 @@ const StyledSkills = styled.section`
     align-items: center;
     row-gap: var(--spacing);
     border: var(--border-width) solid var(--color-1);
-    font-size: 1.1rem;
+    font-size: var(--fz-xs);
     line-height: 1.2;
     text-align: center;
   }

@@ -10,12 +10,12 @@ const StyledHome = styled.section`
   text-align: center;
 
   .name {
-    font-size: clamp(4rem, 20vw, 8rem);
+    font-size: clamp(var(--fz-lg), 20vw, var(--fz-xl));
     line-height: 1;
   }
 
   .title {
-    font-size: clamp(2rem, 10vw, 4rem);
+    font-size: clamp(var(--fz-sm), 10vw, var(--fz-lg));
   }
 
   nav {

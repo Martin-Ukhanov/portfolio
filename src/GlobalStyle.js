@@ -14,6 +14,11 @@ const GlobalStyle = createGlobalStyle`
   :root {
     --color-1: #000000;
     --color-2: #FFFFFF;
+    --fz-xs: 1.1rem;
+    --fz-sm: 2rem;
+    --fz-md: 3rem;
+    --fz-lg: 4rem;
+    --fz-xl: 8rem;
     --spacing: 15px;
     --border-width: 2px;
     --menu-width: 200px;
@@ -39,12 +44,12 @@ const GlobalStyle = createGlobalStyle`
   }
 
   p {
-    font-size: 1.1rem;
+    font-size: var(--fz-xs);
     line-height: 1.5;
   }
 
   a {
-    font-size: 1.1rem;
+    font-size: var(--fz-xs);
     color: inherit;
     text-decoration: none;
   }
@@ -55,7 +60,7 @@ const GlobalStyle = createGlobalStyle`
     border: none;
     outline: none;
     font-family: inherit;
-    font-size: 100%;
+    font-size: var(--fz-xs);
     cursor: pointer;
   }
 

@@ -21,7 +21,7 @@ const StyledAbout = styled.section`
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    font-size: 2rem;
+    font-size: var(--fz-sm);
   }
 `;
 

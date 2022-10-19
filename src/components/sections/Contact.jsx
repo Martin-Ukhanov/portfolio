@@ -27,7 +27,7 @@ const StyledContact = styled.section`
     border: var(--border-width) solid var(--color-1);
     border-radius: 0;
     outline: none;
-    font-size: 100%;
+    font-size: var(--fz-xs);
     font-family: inherit;
     resize: none;
   }
