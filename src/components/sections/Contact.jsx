@@ -66,7 +66,7 @@ function Contact() {
       'contact_service',
       'contact_form',
       contactFormRef.current,
-      '***REMOVED***'
+      process.env.REACT_APP_EMAIL_JS_SERVICE_ID
     );
 
     contactFormRef.current.reset();
