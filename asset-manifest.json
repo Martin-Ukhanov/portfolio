@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.3217b9ee.js",
+    "main.js": "/static/js/main.ebdeee7e.js",
     "static/media/pointOfSale.png": "/static/media/pointOfSale.657a0e450f08d24c89cc.png",
     "static/media/movieFinder.png": "/static/media/movieFinder.e907782243ae65d5c9eb.png",
     "static/media/portfolio.png": "/static/media/portfolio.e04abffd880312032d68.png",
@@ -11,9 +11,9 @@
     "static/media/Poppins.woff": "/static/media/Poppins.8609f9c59114a158e3ad.woff",
     "static/media/Poppins.woff2": "/static/media/Poppins.08491d3f7fe7ae88ef44.woff2",
     "index.html": "/index.html",
-    "main.3217b9ee.js.map": "/static/js/main.3217b9ee.js.map"
+    "main.ebdeee7e.js.map": "/static/js/main.ebdeee7e.js.map"
   },
   "entrypoints": [
-    "static/js/main.3217b9ee.js"
+    "static/js/main.ebdeee7e.js"
   ]
 }
