@@ -42,11 +42,6 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Poppins', sans-serif;
   }
 
-  p {
-    font-size: var(--fz-xs);
-    line-height: 1.5;
-  }
-
   a {
     font-size: var(--fz-xs);
     color: inherit;
