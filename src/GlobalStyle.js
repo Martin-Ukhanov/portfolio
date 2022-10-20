@@ -36,8 +36,6 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    transition: color 0.2s;
-    transition: background-color 0.2s;
   }
 
   body {
