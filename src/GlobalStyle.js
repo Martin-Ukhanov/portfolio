@@ -19,6 +19,7 @@ const GlobalStyle = createGlobalStyle`
     --fz-md: 3rem;
     --fz-lg: 4rem;
     --fz-xl: 8rem;
+    --min-width: 320px;
     --spacing: 15px;
     --border-width: 3px;
     --menu-width: 200px;
