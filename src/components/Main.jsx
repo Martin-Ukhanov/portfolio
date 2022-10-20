@@ -16,7 +16,7 @@ const StyledMain = styled.main`
   color: var(--color-1);
   background-color: var(--color-2);
 
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1230px) {
     display: ${(props) => (props.menuVisible ? 'none' : 'flex')};
     margin-left: 0;
   }

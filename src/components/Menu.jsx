@@ -102,7 +102,7 @@ const StyledMenu = styled.menu`
     fill: var(--color-2);
   }
 
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1230px) {
     position: static;
     min-width: var(--min-width);
     width: 100%;
@@ -125,7 +125,7 @@ const StyledMenuButton = styled.button`
     fill: var(--color-1);
   }
 
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1230px) {
     display: block;
   }
 `;
