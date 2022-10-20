@@ -106,7 +106,7 @@ const StyledProjectSelect = styled.div`
 
 const StyledProjectButton = styled.button`
   flex: 1;
-  min-width: 150px;
+  min-width: 180px;
   padding: var(--spacing);
   color: ${(props) => (props.active ? 'var(--color-2)' : 'var(--color-1)')};
   background-color: ${(props) =>
