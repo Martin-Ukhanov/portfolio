@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import resume from '../../files/Martin_Ukhanov_Resume.pdf';
 
 const StyledHome = styled.section`
   display: flex;
@@ -53,7 +54,9 @@ function Home() {
       </div>
       <nav>
         <a href="#contact">Contact Me</a>
-        <a href="/">View Resume</a>
+        <a href={resume} target="_blank" rel="noopener noreferrer">
+          View Resume
+        </a>
       </nav>
     </StyledHome>
   );

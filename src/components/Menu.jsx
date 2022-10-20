@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
+import resume from '../files/Martin_Ukhanov_Resume.pdf';
 import PaletteIcon from './icons/PaletteIcon';
 import LeftArrowIcon from './icons/LeftArrowIcon';
 import RightArrowIcon from './icons/RightArrowIcon';
@@ -157,7 +158,12 @@ function Menu({ menuVisible, setMenuVisible, previousPalette, nextPalette }) {
             Contact
           </a>
         </nav>
-        <a href="/" className="resume-btn">
+        <a
+          href={resume}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="resume-btn"
+        >
           Resume
         </a>
         <div id="palette-container">
