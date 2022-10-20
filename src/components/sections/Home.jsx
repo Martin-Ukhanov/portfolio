@@ -36,7 +36,7 @@ const StyledHome = styled.section`
     background-color: var(--color-1);
   }
 
-  @media screen and (max-width: 350px) {
+  @media screen and (max-width: 400px) {
     nav {
       width: 100%;
       flex-direction: column;
