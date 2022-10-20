@@ -66,7 +66,7 @@ function Contact() {
       'contact_service',
       'contact_form',
       contactFormRef.current,
-      process.env.REACT_APP_EMAIL_JS_SERVICE_ID
+      process.env.REACT_APP_EMAILJS_SERVICE_ID
     );
 
     contactFormRef.current.reset();
