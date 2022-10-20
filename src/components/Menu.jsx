@@ -103,7 +103,7 @@ const StyledMenu = styled.menu`
 
   @media screen and (max-width: 1200px) {
     position: static;
-    min-width: 320px;
+    min-width: var(--min-width);
     width: 100%;
     display: ${(props) => (props.visible ? 'flex' : 'none')};
     border-right: none;

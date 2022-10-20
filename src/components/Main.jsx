@@ -8,7 +8,7 @@ import Projects from './sections/Projects';
 import Contact from './sections/Contact';
 
 const StyledMain = styled.main`
-  min-width: 303px;
+  min-width: var(--min-width);
   margin-left: var(--menu-width);
   display: flex;
   flex-direction: column;
