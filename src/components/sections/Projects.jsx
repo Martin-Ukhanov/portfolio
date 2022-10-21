@@ -143,7 +143,7 @@ const StyledProjectDisplay = styled.div`
   }
 
   .info .tools .icon {
-    width: 40px;
+    width: 50px;
     fill: var(--color-1);
   }
 
