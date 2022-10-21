@@ -6,6 +6,7 @@ import JavaScriptIcon from '../icons/JavaScriptIcon';
 import TypeScriptIcon from '../icons/TypeScriptIcon';
 import ReactIcon from '../icons/ReactIcon';
 import StyledComponentsIcon from '../icons/StyledComponentsIcon';
+import GoogleAppsScriptIcon from '../icons/GoogleAppsScriptIcon';
 import WebpackIcon from '../icons/WebpackIcon';
 import NpmIcon from '../icons/NpmIcon';
 import GitIcon from '../icons/GitIcon';
@@ -35,6 +36,10 @@ const SKILLS = [
   {
     name: 'Styled Components',
     icon: <StyledComponentsIcon />,
+  },
+  {
+    name: 'Google Apps Script',
+    icon: <GoogleAppsScriptIcon />,
   },
   {
     name: 'Webpack',
