@@ -11,7 +11,7 @@ import JavaScriptIcon from '../icons/JavaScriptIcon';
 import WebpackIcon from '../icons/WebpackIcon';
 import ReactIcon from '../icons/ReactIcon';
 import StyledComponentsIcon from '../icons/StyledComponentsIcon';
-import GoogleIcon from '../icons/GoogleIcon';
+import GoogleAppsScriptIcon from '../icons/GoogleAppsScriptIcon';
 
 const PROJECTS = [
   {
@@ -55,7 +55,7 @@ const PROJECTS = [
       <HTMLIcon key="Point Of Sale HTML" />,
       <CSSIcon key="Point Of Sale CSS" />,
       <JavaScriptIcon key="Point Of Sale JavaScript" />,
-      <GoogleIcon key="Point Of Sale Google" />,
+      <GoogleAppsScriptIcon key="Point Of Sale Google Apps Script" />,
     ],
     repoURL: '',
     demoURL:
