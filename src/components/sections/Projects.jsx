@@ -18,9 +18,6 @@ const PROJECTS = [
     name: 'Portfolio',
     image: portfolioImage,
     tools: [
-      <HTMLIcon key="Portfolio HTML" />,
-      <CSSIcon key="Portfolio CSS" />,
-      <JavaScriptIcon key="Portfolio JavaScript" />,
       <ReactIcon key="Portfolio React" />,
       <StyledComponentsIcon key="Portfolio Styled Components" />,
     ],
