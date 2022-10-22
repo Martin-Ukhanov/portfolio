@@ -57,7 +57,7 @@ const PROJECTS = [
       <JavaScriptIcon key="Point Of Sale JavaScript" />,
       <GoogleAppsScriptIcon key="Point Of Sale Google Apps Script" />,
     ],
-    repoURL: '',
+    repoURL: 'https://github.com/Martin-Ukhanov/point-of-sale',
     demoURL:
       'https://script.google.com/macros/s/AKfycby_WfAMfU8bnlJ1r67PdkP8ka7ORPEeQSe9arpZ92e9trgdoRUAswAdpIKIWH7QnHUQ/exec?username=john1234&password=hello',
   },
