@@ -59,7 +59,7 @@ const PROJECTS = [
     ],
     repoURL: '',
     demoURL:
-      'https://script.google.com/macros/s/AKfycbxKPTaQIQx4vU3iyGnkA3JbapH9OhcsAcckHXyOBNqtofPJVVBh1J0jjSoSW2NHQWNuGg/exec?username=john1234&password=hello',
+      'https://script.google.com/macros/s/AKfycby_WfAMfU8bnlJ1r67PdkP8ka7ORPEeQSe9arpZ92e9trgdoRUAswAdpIKIWH7QnHUQ/exec?username=john1234&password=hello',
   },
   {
     name: 'Tic-Tac-Toe',
