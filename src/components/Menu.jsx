@@ -106,7 +106,7 @@ const StyledMenu = styled.menu`
     position: static;
     min-width: var(--min-width);
     width: 100%;
-    display: ${(props) => (props.visible ? 'flex' : 'none')};
+    display: ${({ visible }) => (visible ? 'flex' : 'none')};
     border-right: none;
     overflow-x: auto;
   }
