@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.4fdeef71.js",
+    "main.js": "/static/js/main.89a86fb2.js",
     "static/media/pointOfSale.png": "/static/media/pointOfSale.657a0e450f08d24c89cc.png",
     "static/media/movieFinder.png": "/static/media/movieFinder.e907782243ae65d5c9eb.png",
     "static/media/portfolio.png": "/static/media/portfolio.e04abffd880312032d68.png",
     "static/media/wordleClone.png": "/static/media/wordleClone.e3a56877ca0eee822e46.png",
-    "static/media/Martin_Ukhanov_Resume.pdf": "/static/media/Martin_Ukhanov_Resume.0cbec4677710de816f94.pdf",
+    "static/media/Martin_Ukhanov_Resume.pdf": "/static/media/Martin_Ukhanov_Resume.2a8de299472bce4b08b2.pdf",
     "static/media/ticTacToe.png": "/static/media/ticTacToe.bfc0d16e42b3de095dea.png",
     "static/media/Poppins.ttf": "/static/media/Poppins.c5bf954f85d4e113650f.ttf",
     "static/media/Poppins.woff": "/static/media/Poppins.8609f9c59114a158e3ad.woff",
     "static/media/Poppins.woff2": "/static/media/Poppins.08491d3f7fe7ae88ef44.woff2",
     "index.html": "/index.html",
-    "main.4fdeef71.js.map": "/static/js/main.4fdeef71.js.map"
+    "main.89a86fb2.js.map": "/static/js/main.89a86fb2.js.map"
   },
   "entrypoints": [
-    "static/js/main.4fdeef71.js"
+    "static/js/main.89a86fb2.js"
   ]
 }
