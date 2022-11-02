@@ -11,6 +11,7 @@ import WebpackIcon from '../icons/WebpackIcon';
 import NpmIcon from '../icons/NpmIcon';
 import GitIcon from '../icons/GitIcon';
 import GitHubIcon from '../icons/GitHubIcon';
+import BashIcon from '../icons/BashIcon';
 
 const SKILLS = [
   {
@@ -56,6 +57,10 @@ const SKILLS = [
   {
     name: 'GitHub',
     icon: <GitHubIcon />,
+  },
+  {
+    name: 'Bash',
+    icon: <BashIcon />,
   },
 ];
 
